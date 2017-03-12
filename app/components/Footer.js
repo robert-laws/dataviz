@@ -43,8 +43,8 @@ var Footer = React.createClass({
                             </List>
                         </div>
                         <div className="seven wide column">
-                            <Header as="h4" inverted>money.libtech.georgetown.domains</Header>
-                            <p>"Sometimes understanding how to calculate the value of money is easier said than done."</p>
+                            <Header as="h4" inverted>dataviz.libtech.georgetown.domains</Header>
+                            <p>"Transform your Data into compelling Visualizations"</p>
                         </div>
                     </div>
                 </Container>
