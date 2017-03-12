@@ -1,6 +1,6 @@
 var React = require('react');
 var { Link } = require('react-router');
-var { Container, Header, Divider, Segment, Message, Image, Icon } = require('semantic-ui-react');
+var { Container, Header, Divider, Segment, Image } = require('semantic-ui-react');
 
 var Home = React.createClass({
     render() {
@@ -8,10 +8,10 @@ var Home = React.createClass({
             <Container>
                 <Segment vertical>
                     <Header as="h1">
-                      Money, Banking, and Finance - Tools
+                      Data Visualization - Community Course, Spring 2017
                     </Header>
                     <Divider />
-                    <Image src="img/money.jpg" fluid />
+                    <Image src="img/dataviz.jpg" fluid />
                     <Divider />
                 </Segment>
             </Container>
