@@ -90,7 +90,7 @@ var WeekOne = React.createClass({
             <Header attached="top" as="h3" color="brown">History and Evolution of Data Visualization</Header>
             <Segment attached>
               <List bulleted>
-                <List.Item><a href="the_5_most_influential_data_visualizations_of_all_time.pdf" target="_blank">Famous Data Visualizations</a></List.Item>
+                <List.Item><a href="img/the_5_most_influential_data_visualizations_of_all_time.pdf" target="_blank">Famous Data Visualizations</a></List.Item>
                 <List.Item><a href="http://www.datavis.ca/milestones/" target="_blank">Milestones in the History of Data Visualization</a></List.Item>
                 <List.Item><a href="http://data-art.net/resources/history_of_vis.php" target="_blank">A Quick Illustrated History of Visualisation</a></List.Item>
                 <List.Item><a href="http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/" target="_blank">The Surprising History of the Infographic</a></List.Item>
@@ -101,6 +101,7 @@ var WeekOne = React.createClass({
             <Header attached="top" as="h3" color="brown">Data Visualization Examples</Header>
             <Segment attached>
               <List bulleted>
+                <List.Item><a href="https://www.nytimes.com/interactive/2017/03/08/upshot/who-wins-and-who-loses-under-republicans-health-care-plan.html" target="_blank">NY Times article - Who Wins and Who Loses Under Republicans’ Health Care Plan</a></List.Item>
                 <List.Item><a href="img/axios_winners_losers.jpg" target="_blank">Visualizing the Health Care Debate in the USA, v.1</a></List.Item>
                 <List.Item><a href="img/ny_times_winners_losers.jpg" target="_blank">Visualizing the Health Care Debate in the USA, v.2</a></List.Item>
                 <List.Item><a href="img/web-analytics-dashboard-thumbnail.png" target="_blank">Dashboard, Example 1</a></List.Item>
