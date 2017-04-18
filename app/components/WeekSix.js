@@ -17,6 +17,14 @@ var WeekSix = React.createClass({
                 <List.Item><a href="https://infogr.am/">Infogram</a></List.Item>
               </List>
             </Segment>
+            <Header attached="top" as="h3" color="blue">Sample Data Sources</Header>
+            <Segment attached>
+              <List bulleted>
+                <List.Item><a href="https://docs.google.com/spreadsheets/d/1h13SF3wkOO5WzDUlkLGvR57qxkO4aFw6LzrQglWJ0z8/pubhtml">Google Sheets Data - Regional Sales</a></List.Item>
+                <List.Item><a href="data/competition.xlsx">Excel - Competition between two Sales People</a></List.Item>
+                <List.Item>Article: <a href="https://hbr.org/2016/06/visualizations-that-really-work">Visualizations That Really Work</a>, and <a href="data/data_visualization_article.txt">Text File Version</a>, <a href="https://docs.google.com/spreadsheets/d/1XRZfe6VseXkE9dtk7B8N6IdaIOsc03yywTe-mj_qEts/pubhtml">Google Sheet Version</a>, <a href="data/word_cloud.xlsx">Excel Version</a>, and <a href="https://wordcounttools.com/">Word Count Tool</a></List.Item>
+              </List>
+            </Segment>
           </Segment>
           <Segment basic>
             <Header attached="top" as="h3" color="blue">Infographic Example - using Visme</Header>
